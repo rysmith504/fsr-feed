@@ -3,15 +3,13 @@
   <channel>
     <title>FSR Daily</title>
     <description>2 Pros and a Cup of Joe recordings</description>
-    <link>https://www.dropbox.com/</link>
+    <link>https://raw.githubusercontent.com/rysmith504/fsr-feed/main/feed.xml</link>
     <language>en-us</language>
-
     <item>
       <title>FSR - 2026-04-17 Hour 1</title>
-      <pubDate>Fri, 17 Apr 2026 10:00:00 GMT</pubDate>
-      <enclosure url="https://www.dropbox.com/scl/fi/q4gdq1g4fl3ypgl1wzmzl/fsr_2026-04-17_00.mp3?rlkey=x2n6hk4qmevw04wr2p7znn1ch&st=t6cvjscb&raw=1" length="10000000" type="audio/mpeg"/>
-      <guid>fsr-2026-04-17-00</guid>
+      <pubDate>Fri, 17 Apr 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://www.dropbox.com/scl/fi/q4gdq1g4fl3ypgl1wzmzl/fsr_2026-04-17_00.mp3?rlkey=x2n6hk4qmevw04wr2p7znn1ch&dl=0" length="1037417" type="audio/mpeg"/>
+      <guid>fsr_2026-04-17_00.mp3</guid>
     </item>
-
   </channel>
 </rss>
