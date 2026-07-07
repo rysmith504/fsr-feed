@@ -5,17 +5,6 @@
     <description>2 Pros and a Cup of Joe recordings</description>
     <link>https://raw.githubusercontent.com/rysmith504/fsr-feed/main/feed.xml</link>
     <language>en-us</language>
-    <item>
-      <title>FSR - 2026-04-23 Hour 7</title>
-      <pubDate>Thu, 23 Apr 2026 17:00:00 GMT</pubDate>
-      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/wxdg5h7b7phdh5czi8827/fsr_2026-04-23_06.mp3?rlkey=e9kyk3up70oglv0j9cnqm1fl4" length="3407872" type="audio/mpeg"/>
-      <guid>fsr_2026-04-23_06.mp3</guid>
-    </item>
-    <item>
-      <title>FSR - 2026-04-21 Hour 1</title>
-      <pubDate>Tue, 21 Apr 2026 11:00:00 GMT</pubDate>
-      <enclosure url="https://dl.dropboxusercontent.com/scl/fi/hrls66xi4j9azk0pz9lsr/fsr_2026-04-21_00.mp3?rlkey=2ne5oy6rymk1yqleiv50emyss" length="19463566" type="audio/mpeg"/>
-      <guid>fsr_2026-04-21_00.mp3</guid>
-    </item>
+
   </channel>
 </rss>
